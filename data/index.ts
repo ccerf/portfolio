@@ -13,7 +13,7 @@ export const gridItems = [
 		className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
 		imgClassName: "w-full h-full",
 		titleClassName: "justify-end",
-		img: "/b1.svg",
+		img: "b1.svg",
 		spareImg: "",
 	},
 	{
@@ -43,8 +43,8 @@ export const gridItems = [
 		className: "lg:col-span-2 md:col-span-3 md:row-span-1",
 		imgClassName: "",
 		titleClassName: "justify-start",
-		img: "/grid.svg",
-		spareImg: "/b4.svg",
+		img: "grid.svg",
+		spareImg: "b4.svg",
 	},
 
 	{
@@ -54,8 +54,8 @@ export const gridItems = [
 		className: "md:col-span-3 md:row-span-2",
 		imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
 		titleClassName: "justify-center md:justify-start lg:justify-center",
-		img: "/b5.svg",
-		spareImg: "/grid.svg",
+		img: "b5.svg",
+		spareImg: "grid.svg",
 	},
 	{
 		id: 6,
@@ -75,7 +75,7 @@ export const projects = [
 		title: "3D Solar System Planets to Explore",
 		des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
 		img: "p1.svg",
-		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+		iconLists: ["re.svg", "tail.svg", "ts.svg", "three.svg", "fm.svg"],
 		link: "https://github.com/adrianhajdin?tab=repositories",
 	},
 	{
@@ -83,7 +83,7 @@ export const projects = [
 		title: "Yoom - Video Conferencing App",
 		des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
 		img: "p2.svg",
-		iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+		iconLists: ["next.svg", "tail.svg", "ts.svg", "stream.svg", "c.svg"],
 		link: "https://github.com/adrianhajdin/zoom-clone",
 	},
 	{
@@ -91,7 +91,7 @@ export const projects = [
 		title: "AI Image SaaS - Canva Application",
 		des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
 		img: "p3.svg",
-		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+		iconLists: ["re.svg", "tail.svg", "ts.svg", "three.svg", "c.svg"],
 		link: "https://github.com/adrianhajdin/ai_saas_app",
 	},
 	{
@@ -99,7 +99,7 @@ export const projects = [
 		title: "Animated Apple Iphone 3D Website",
 		des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
 		img: "p4.svg",
-		iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+		iconLists: ["next.svg", "tail.svg", "ts.svg", "three.svg", "gsap.svg"],
 		link: "https://github.com/adrianhajdin/iphone",
 	},
 ];
@@ -141,31 +141,31 @@ export const companies = [
 	{
 		id: 1,
 		name: "cloudinary",
-		img: "/cloud.svg",
+		img: "cloud.svg",
 		nameImg: "cloudName.svg",
 	},
 	{
 		id: 2,
 		name: "appwrite",
-		img: "/app.svg",
+		img: "app.svg",
 		nameImg: "appName.svg",
 	},
 	{
 		id: 3,
 		name: "HOSTINGER",
-		img: "/host.svg",
+		img: "host.svg",
 		nameImg: "hostName.svg",
 	},
 	{
 		id: 4,
 		name: "stream",
-		img: "/s.svg",
+		img: "s.svg",
 		nameImg: "streamName.svg",
 	},
 	{
 		id: 5,
 		name: "docker.",
-		img: "/dock.svg",
+		img: "dock.svg",
 		nameImg: "dockerName.svg",
 	},
 ];
