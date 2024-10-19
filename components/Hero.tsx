@@ -29,7 +29,7 @@ const Hero = () => {
 					/>
 
 					<p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl dark:text-white">
-						Hi, I&apos;m Carl, a Next.js Developer based in France
+						Hi, I&apos;m Carl, a front-end Developer based in Paris
 					</p>
 
 					<a href="#about">
