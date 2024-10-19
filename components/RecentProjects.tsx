@@ -24,7 +24,7 @@ const RecentProjects = () => {
 							</div>
 							<h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1 text-white">{title}</h1>
 
-							<p className="lg:text-xl lg:font-normal font-light text-sm line-clamp-2 text-white">{des}</p>
+							<p className="lg:text-xl lg:font-normal font-light text-sm line-clamp-3 text-white">{des}</p>
 
 							<div className="flex items-center justify-between mt-7 mb-3">
 								<div className="flex items-center">
